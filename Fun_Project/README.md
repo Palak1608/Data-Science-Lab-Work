@@ -28,4 +28,4 @@ This project analyzes student performance using Python and visualizes key insigh
 Data analysis helps understand patterns in student performance and improve decision-making.
 
 ## Author
-Palak
+Palak Salunkhe
