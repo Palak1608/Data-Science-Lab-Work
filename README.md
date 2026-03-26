@@ -1,2 +1,11 @@
 # Data-Science-Lab-Work
-My Data Science Lab Work and Projects
+
+This repository contains all lab exercises and projects including:
+- Python Basics
+- Data Analysis
+- Machine Learning Projects
+
+Projects included:
+- Student Performance Analysis
+- Customer Segmentation
+- Sentiment Analysis
